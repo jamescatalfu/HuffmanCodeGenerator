@@ -6,4 +6,4 @@ This program uses the catch testing framework to verify the functionality of the
 
 To run this program use the following:
 
-g++ -std=c++17 -Wall HuffmanBase.cpp PP4Test.cpp
+g++ -std=c++17 -Wall HuffmanTree.cpp PP4Test.cpp
